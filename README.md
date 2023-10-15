@@ -1,6 +1,5 @@
 
-## Getting Started
-
+## Read Me
 First, run the development server:
 
 ```bash
